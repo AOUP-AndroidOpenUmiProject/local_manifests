@@ -8,6 +8,5 @@ Then clone this local manifest
 ### Once synced:
 
 * cd $working_dir
-* sh device/umi/mt6755-common/patches/install.sh
 * breakfast yourdevice(SUPER, PLUS, MAX)
 * brunch yourdevice(SUPER, PLUS, MAX)
