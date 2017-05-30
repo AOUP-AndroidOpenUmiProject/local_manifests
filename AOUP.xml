@@ -1,8 +1,4 @@
 <manifest>
-	<project path="device/umi/MAX" name="AOUP-AndroidOpenUmiProject/android_device_umi_MAX" remote="github" revision="cm-13.0"/>
-	<project path="device/umi/PLUS" name="AOUP-AndroidOpenUmiProject/android_device_umi_PLUS" remote="github" revision="cm-13.0"/>
-	<project path="device/umi/SUPER" name="AOUP-AndroidOpenUmiProject/android_device_umi_SUPER" remote="github" revision="cm-13.0"/>
-	<project path="device/umi/mt6755-common" name="AOUP-AndroidOpenUmiProject/android_device_umi_mt6755-common" remote="github" revision="cm-13.0"/>
-    <project path="vendor/umi" name="AOUP-AndroidOpenUmiProject/android_vendor_umi" remote="github" revision="master" sync-s="true"/>
-    <project path="packages/apps/KeySwitch" name="AOUP-AndroidOpenUmiProject/KeySwitch" remote="github" revision="AOSP-build"/>
+	<project path="device/umidigi/n383bt" name="AOUP-AndroidOpenUmiProject/android_device_umidigi_n383bt" remote="github" revision="TWRP"/>
+	<project path="device/umidigi/mt6737X-common" name="AOUP-AndroidOpenUmiProject/android_device_umidigi_mt6737X-common" remote="github" revision="TWRP"/>
 </manifest>
