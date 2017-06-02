@@ -1,4 +1,5 @@
 <manifest>
 	<project path="device/umidigi/n383bt" name="AOUP-AndroidOpenUmiProject/android_device_umidigi_n383bt" remote="github" revision="TWRP"/>
+	<project path="device/umidigi/len6737m_35_n" name="AOUP-AndroidOpenUmiProject/android_device_umidigi_len6737m_35_n" remote="github" revision="TWRP"/>
 	<project path="device/umidigi/mt6737X-common" name="AOUP-AndroidOpenUmiProject/android_device_umidigi_mt6737X-common" remote="github" revision="TWRP"/>
 </manifest>
